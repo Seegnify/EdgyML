@@ -1,6 +1,6 @@
-# EdgyML
+# EdgeML
 
-**EdgyML** is a machine learning library for on-device training and inference.
+**EdgeML** is a machine learning library for on-device training and inference.
 
 ## Main Features
 
