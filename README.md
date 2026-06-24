@@ -1,6 +1,6 @@
 # EmbeddedML
 
-[EmbeddedML](https://seegnify.org/) is a machine learning library that runs anywhere.
+[EdgyML](https://seegnify.com/) is a machine learning library that runs anywhere.
 
 ## Main Features
 
