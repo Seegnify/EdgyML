@@ -1,6 +1,6 @@
 # EdgyML
 
-[EdgyML](https://seegnify.com/) is a machine learning library that runs anywhere.
+**EdgyML** is a machine learning library that runs anywhere.
 
 ## Main Features
 
