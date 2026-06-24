@@ -1,6 +1,6 @@
 # EdgyML
 
-**EdgyML** is a machine learning library that runs anywhere.
+**EdgyML** is a machine learning library for on-device training and inference.
 
 ## Main Features
 
